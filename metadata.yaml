@@ -1,0 +1,29 @@
+_repo: Josie-O-Gorman-and-the-Meddlesome-Major_64430
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Mack, Isabel Bush
+    gutenberg_agent_id: '52894'
+    url: http://www.gutenberg.org/2009/agents/52894
+creator:
+  author:
+    agent_name: Sampson, Emma Speed
+    alias: Van Dyne, Edith
+    birthdate: 1868
+    deathdate: 1947
+    gutenberg_agent_id: '25389'
+    url: http://www.gutenberg.org/2009/agents/25389
+    wikipedia: https://en.wikipedia.org/wiki/Emma_Speed_Sampson
+description: ''
+gutenberg_issued: '2021-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64430'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Josie O'Gorman and the Meddlesome Major
+url: http://www.gutenberg.org/ebooks/64430
